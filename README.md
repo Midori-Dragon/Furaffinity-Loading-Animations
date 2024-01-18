@@ -1,6 +1,6 @@
 # Furaffinity Loading Animations
 
-Library for creating different loading animations on Furaffinity. Also see this Script on Greasy Fork as [Furaffinity-Loading-Animations](https://greasyfork.org/de/scripts/475041-furaffinity-loading-animations)
+Library for creating different loading animations on Furaffinity. Also see this Script on Greasy Fork as [Furaffinity-Loading-Animations](https://greasyfork.org/de/scripts/485153-furaffinity-loading-animations)
 
 ## How to use
 
