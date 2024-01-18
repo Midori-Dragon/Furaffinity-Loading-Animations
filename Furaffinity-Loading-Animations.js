@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name		Furaffinity-Loading-Animations
-// @namespace	Violentmonkey Scripts
-// @grant		none
-// @version		1.0.0
-// @author		Midori Dragon
-// @description	Library for creating different loading animations on Furaffinity
-// @icon		https://www.furaffinity.net/themes/beta/img/banners/fa_logo.png?v2
-// @homepageURL
-// @supportURL
-// @license		MIT
+// @name        Furaffinity-Loading-Animations
+// @namespace   Violentmonkey Scripts
+// @grant       none
+// @version     1.0.1
+// @author      Midori Dragon
+// @description Library for creating different loading animations on Furaffinity
+// @icon        https://www.furaffinity.net/themes/beta/img/banners/fa_logo.png?v2
+// @homepageURL https://greasyfork.org/de/scripts/485153-furaffinity-loading-animations
+// @supportURL  https://greasyfork.org/de/scripts/485153-furaffinity-loading-animations/feedback
+// @license     MIT
 // ==/UserScript==
 
 (() => {
